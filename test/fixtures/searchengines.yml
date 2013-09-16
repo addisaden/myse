@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  url: MyString
+  arg_count: 1
+  flagged: false
+
+two:
+  name: MyString
+  description: MyText
+  url: MyString
+  arg_count: 1
+  flagged: false
